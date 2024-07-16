@@ -1,0 +1,26 @@
+[
+  {
+    "phone_img": "https://www.course-api.com/images/cart/phone-1.png",
+    "phone_name": "Samsung Galaxy S8",
+    "phone_price": 399.99,
+    "quantity": 1
+  },
+  {
+    "phone_img": "https://www.course-api.com/images/cart/phone-2.png",
+    "phone_name": "Google Pixel",
+    "phone_price": 499.99,
+    "quantity": 1
+  },
+  {
+    "phone_img": "https://www.course-api.com/images/cart/phone-3.png",
+    "phone_name": "Xiaomi Redmi Note 2",
+    "phone_price": 699.99,
+    "quantity": 1
+  },
+  {
+    "phone_img": "https://www.course-api.com/images/cart/phone-4.png",
+    "phone_name": "Samsung Galaxy S7",
+    "phone_price": 599.99,
+    "quantity": 1
+  }
+]
